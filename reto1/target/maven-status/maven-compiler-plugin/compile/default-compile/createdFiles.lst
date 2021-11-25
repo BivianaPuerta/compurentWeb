@@ -1,0 +1,6 @@
+com\madreselva\reto1\service\UserService.class
+com\madreselva\reto1\model\User.class
+com\madreselva\reto1\repository\crudRepository\UserCrudRepository.class
+com\madreselva\reto1\web\UserController.class
+com\madreselva\reto1\Reto1Application.class
+com\madreselva\reto1\repository\UserRepository.class
